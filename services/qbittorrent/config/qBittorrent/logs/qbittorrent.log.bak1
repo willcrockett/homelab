@@ -1,0 +1,968 @@
+(N) 2024-07-01T21:30:45 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:47 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:47 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:47 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:47 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:47 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:47 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:47 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:47 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:47 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:47 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:47 - Encryption support: ON
+(I) 2024-07-01T21:30:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:47 - Using built-in WebUI.
+(W) 2024-07-01T21:30:47 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:47 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:47 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:47 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:48 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:48 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:48 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:48 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:48 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:48 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:48 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:48 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:48 - Encryption support: ON
+(I) 2024-07-01T21:30:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:48 - Using built-in WebUI.
+(W) 2024-07-01T21:30:48 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:48 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:48 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:48 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:49 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:49 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:49 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:49 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:49 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:49 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:49 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:49 - Encryption support: ON
+(I) 2024-07-01T21:30:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:49 - Using built-in WebUI.
+(W) 2024-07-01T21:30:49 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:49 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:49 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:49 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:50 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:50 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:50 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:50 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:50 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:50 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:50 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:50 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:50 - Encryption support: ON
+(I) 2024-07-01T21:30:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:50 - Using built-in WebUI.
+(W) 2024-07-01T21:30:50 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:50 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:50 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:52 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:52 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:52 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:52 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:52 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:52 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:52 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:52 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:52 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:52 - Encryption support: ON
+(I) 2024-07-01T21:30:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:52 - Using built-in WebUI.
+(W) 2024-07-01T21:30:52 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:52 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:52 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:52 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:53 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:53 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:53 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:53 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:53 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:53 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:53 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:53 - Encryption support: ON
+(I) 2024-07-01T21:30:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:53 - Using built-in WebUI.
+(W) 2024-07-01T21:30:53 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:53 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:53 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:53 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:54 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:54 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:54 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:54 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:54 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:54 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:54 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:54 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:54 - Encryption support: ON
+(I) 2024-07-01T21:30:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:54 - Using built-in WebUI.
+(W) 2024-07-01T21:30:54 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:54 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:54 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:56 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:56 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:56 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:56 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:56 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:56 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:56 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:56 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:56 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:56 - Encryption support: ON
+(I) 2024-07-01T21:30:56 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:56 - Using built-in WebUI.
+(W) 2024-07-01T21:30:56 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:56 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:56 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:58 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:58 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:58 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:58 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:58 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:58 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:58 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:58 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:58 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:58 - Encryption support: ON
+(I) 2024-07-01T21:30:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:30:59 - Using built-in WebUI.
+(W) 2024-07-01T21:30:59 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:30:59 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:30:59 - qBittorrent termination initiated
+(N) 2024-07-01T21:30:59 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:30:59 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:30:59 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:30:59 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:30:59 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:30:59 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:30:59 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:30:59 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:30:59 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:30:59 - Anonymous mode: OFF
+(I) 2024-07-01T21:30:59 - Encryption support: ON
+(I) 2024-07-01T21:30:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:00 - Using built-in WebUI.
+(W) 2024-07-01T21:31:00 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:00 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:00 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:02 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:02 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:02 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:02 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:02 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:02 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:02 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:02 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:02 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:02 - Encryption support: ON
+(I) 2024-07-01T21:31:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:02 - Using built-in WebUI.
+(W) 2024-07-01T21:31:02 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:02 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:02 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:02 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:03 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:03 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:03 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:03 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:03 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:03 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:03 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:03 - Encryption support: ON
+(I) 2024-07-01T21:31:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:03 - Using built-in WebUI.
+(W) 2024-07-01T21:31:03 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:03 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:03 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:03 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:04 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:04 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:04 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:04 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:04 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:04 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:04 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:04 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:04 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:04 - Encryption support: ON
+(I) 2024-07-01T21:31:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:04 - Using built-in WebUI.
+(W) 2024-07-01T21:31:04 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:04 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:04 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:06 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:06 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:06 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:06 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:06 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:06 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:06 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:06 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:06 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:06 - Encryption support: ON
+(I) 2024-07-01T21:31:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:06 - Using built-in WebUI.
+(W) 2024-07-01T21:31:06 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:06 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:06 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:08 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:08 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:08 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:08 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:08 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:08 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:08 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:08 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:08 - Encryption support: ON
+(I) 2024-07-01T21:31:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:08 - Using built-in WebUI.
+(W) 2024-07-01T21:31:08 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:08 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:08 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:08 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:09 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:09 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:09 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:09 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:09 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:09 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:09 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:09 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:09 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:09 - Encryption support: ON
+(I) 2024-07-01T21:31:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:09 - Using built-in WebUI.
+(W) 2024-07-01T21:31:09 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:09 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:09 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:11 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:11 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:11 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:11 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:11 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:11 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:11 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:11 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:11 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:11 - Encryption support: ON
+(I) 2024-07-01T21:31:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:11 - Using built-in WebUI.
+(W) 2024-07-01T21:31:11 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:11 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:11 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:13 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:13 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:13 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:13 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:13 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:13 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:13 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:13 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:13 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:13 - Encryption support: ON
+(I) 2024-07-01T21:31:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:13 - Using built-in WebUI.
+(W) 2024-07-01T21:31:13 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:13 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:13 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:13 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:14 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:14 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:14 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:14 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:14 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:14 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:14 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:14 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:14 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:14 - Encryption support: ON
+(I) 2024-07-01T21:31:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:14 - Using built-in WebUI.
+(W) 2024-07-01T21:31:14 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:14 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:14 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:16 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:16 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:16 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:16 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:16 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:16 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:16 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:16 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:16 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:16 - Encryption support: ON
+(I) 2024-07-01T21:31:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:16 - Using built-in WebUI.
+(W) 2024-07-01T21:31:16 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:16 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:16 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:18 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:19 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:19 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:19 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:19 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:19 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:19 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:19 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:19 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:19 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:19 - Encryption support: ON
+(I) 2024-07-01T21:31:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:19 - Using built-in WebUI.
+(W) 2024-07-01T21:31:19 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:19 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:19 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:21 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:21 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:21 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:21 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:21 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:21 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:21 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:21 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:21 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:21 - Encryption support: ON
+(I) 2024-07-01T21:31:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:21 - Using built-in WebUI.
+(W) 2024-07-01T21:31:21 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:21 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:21 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:21 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:22 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:22 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:22 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:22 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:22 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:22 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:22 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:22 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:22 - Encryption support: ON
+(I) 2024-07-01T21:31:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:22 - Using built-in WebUI.
+(W) 2024-07-01T21:31:22 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:22 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:22 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:23 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:23 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:23 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:23 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:23 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:23 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:23 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:23 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:23 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:23 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:23 - Encryption support: ON
+(I) 2024-07-01T21:31:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:23 - Using built-in WebUI.
+(W) 2024-07-01T21:31:23 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:23 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:23 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:25 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:25 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:25 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:25 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:25 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:25 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:25 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:25 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:25 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:25 - Encryption support: ON
+(I) 2024-07-01T21:31:25 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:25 - Using built-in WebUI.
+(W) 2024-07-01T21:31:25 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:25 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:25 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:25 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:26 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:26 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:26 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:26 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:26 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:26 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:26 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:26 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:26 - Encryption support: ON
+(I) 2024-07-01T21:31:26 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:26 - Using built-in WebUI.
+(W) 2024-07-01T21:31:26 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:26 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:26 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:29 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:29 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:29 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:29 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:29 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:29 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:29 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:29 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:29 - Encryption support: ON
+(I) 2024-07-01T21:31:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:29 - Using built-in WebUI.
+(W) 2024-07-01T21:31:29 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:29 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:29 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:29 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:30 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:30 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:30 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:30 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:30 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:30 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:30 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:30 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:30 - Encryption support: ON
+(I) 2024-07-01T21:31:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:30 - Using built-in WebUI.
+(W) 2024-07-01T21:31:30 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:30 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:30 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:33 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:33 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:33 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:33 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:33 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:33 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:33 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:33 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:33 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:33 - Encryption support: ON
+(I) 2024-07-01T21:31:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:33 - Using built-in WebUI.
+(W) 2024-07-01T21:31:33 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:33 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:33 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:35 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:35 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:35 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:35 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:35 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:35 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:35 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:35 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:35 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:35 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:35 - Encryption support: ON
+(I) 2024-07-01T21:31:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:35 - Using built-in WebUI.
+(W) 2024-07-01T21:31:35 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:35 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:35 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:37 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:37 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:37 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:37 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:37 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:37 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:37 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:37 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:37 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:37 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:37 - Encryption support: ON
+(I) 2024-07-01T21:31:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:37 - Using built-in WebUI.
+(W) 2024-07-01T21:31:37 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:37 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:37 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:37 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:38 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:38 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:38 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:38 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:38 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:38 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:38 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:38 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:38 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:38 - Encryption support: ON
+(I) 2024-07-01T21:31:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:38 - Using built-in WebUI.
+(W) 2024-07-01T21:31:38 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:38 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:38 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:40 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:40 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:40 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:40 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:40 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:40 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:40 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:40 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:40 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:40 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:40 - Encryption support: ON
+(I) 2024-07-01T21:31:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:41 - Using built-in WebUI.
+(W) 2024-07-01T21:31:41 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:41 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:41 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:41 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:41 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:41 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:41 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:41 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:41 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:41 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:41 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:41 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:41 - Encryption support: ON
+(I) 2024-07-01T21:31:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:42 - Using built-in WebUI.
+(W) 2024-07-01T21:31:42 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:42 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:42 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:42 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:42 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:42 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:42 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:42 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:42 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:42 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:42 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:42 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:42 - Encryption support: ON
+(I) 2024-07-01T21:31:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:43 - Using built-in WebUI.
+(W) 2024-07-01T21:31:43 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:43 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:43 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:43 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:44 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:44 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:44 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:44 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:44 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:44 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:44 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:44 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:44 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:44 - Encryption support: ON
+(I) 2024-07-01T21:31:44 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:44 - Using built-in WebUI.
+(W) 2024-07-01T21:31:44 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:44 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:44 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:44 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:45 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:45 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:45 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:45 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:45 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:45 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:45 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:45 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:45 - Encryption support: ON
+(I) 2024-07-01T21:31:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:45 - Using built-in WebUI.
+(W) 2024-07-01T21:31:45 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:45 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:45 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:45 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:46 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:46 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:46 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:46 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:46 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:46 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:46 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:46 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:46 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:46 - Encryption support: ON
+(I) 2024-07-01T21:31:46 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:46 - Using built-in WebUI.
+(W) 2024-07-01T21:31:46 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:46 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:46 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:48 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:48 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:48 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:48 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:48 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:48 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:48 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:48 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:48 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:48 - Encryption support: ON
+(I) 2024-07-01T21:31:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:48 - Using built-in WebUI.
+(W) 2024-07-01T21:31:48 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:48 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:48 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:48 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:49 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:49 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:49 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:49 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:49 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:49 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:49 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:49 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:49 - Encryption support: ON
+(I) 2024-07-01T21:31:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:49 - Using built-in WebUI.
+(W) 2024-07-01T21:31:49 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:49 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:49 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:51 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:51 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:51 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:51 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:51 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:51 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:51 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:51 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:51 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:51 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:51 - Encryption support: ON
+(I) 2024-07-01T21:31:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:51 - Using built-in WebUI.
+(W) 2024-07-01T21:31:51 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:51 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:51 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:53 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:53 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:53 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:53 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:53 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:53 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:53 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:53 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:53 - Encryption support: ON
+(I) 2024-07-01T21:31:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:53 - Using built-in WebUI.
+(W) 2024-07-01T21:31:53 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:53 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:53 - qBittorrent termination initiated
+(N) 2024-07-01T21:31:55 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:31:55 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:31:55 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:31:55 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:31:55 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:31:55 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:31:55 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:31:55 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:31:55 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:31:55 - Anonymous mode: OFF
+(I) 2024-07-01T21:31:55 - Encryption support: ON
+(I) 2024-07-01T21:31:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:31:55 - Using built-in WebUI.
+(W) 2024-07-01T21:31:55 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:31:55 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:31:55 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:00 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:00 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:00 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:00 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:00 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:00 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:00 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:00 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:00 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:00 - Encryption support: ON
+(I) 2024-07-01T21:32:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:00 - Using built-in WebUI.
+(W) 2024-07-01T21:32:00 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:00 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:00 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:01 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:01 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:01 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:01 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:01 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:01 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:01 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:01 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:01 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:01 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:01 - Encryption support: ON
+(I) 2024-07-01T21:32:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:01 - Using built-in WebUI.
+(W) 2024-07-01T21:32:01 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:01 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:01 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:03 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:03 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:03 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:03 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:03 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:03 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:03 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:03 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:03 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:03 - Encryption support: ON
+(I) 2024-07-01T21:32:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:03 - Using built-in WebUI.
+(W) 2024-07-01T21:32:03 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:03 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:03 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:05 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:05 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:05 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:05 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:05 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:05 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:05 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:05 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:05 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:05 - Encryption support: ON
+(I) 2024-07-01T21:32:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:06 - Using built-in WebUI.
+(W) 2024-07-01T21:32:06 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:06 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:06 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:06 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:06 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:06 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:06 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:06 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:06 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:06 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:06 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:06 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:06 - Encryption support: ON
+(I) 2024-07-01T21:32:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:07 - Using built-in WebUI.
+(W) 2024-07-01T21:32:07 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:07 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:07 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:10 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:10 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:10 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:10 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:10 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:10 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:10 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:10 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:10 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:10 - Encryption support: ON
+(I) 2024-07-01T21:32:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:10 - Using built-in WebUI.
+(W) 2024-07-01T21:32:10 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:10 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:10 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:12 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:12 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:12 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:12 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:12 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:12 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:12 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:12 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:12 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:12 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:12 - Encryption support: ON
+(I) 2024-07-01T21:32:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:12 - Using built-in WebUI.
+(W) 2024-07-01T21:32:12 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:12 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:12 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:14 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:14 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:14 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:14 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:14 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:14 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:14 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:14 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:14 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:14 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:14 - Encryption support: ON
+(I) 2024-07-01T21:32:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:14 - Using built-in WebUI.
+(W) 2024-07-01T21:32:14 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:14 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:14 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:17 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:17 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:17 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:17 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:17 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:17 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:17 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:17 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:17 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:17 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:17 - Encryption support: ON
+(I) 2024-07-01T21:32:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:17 - Using built-in WebUI.
+(W) 2024-07-01T21:32:17 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:17 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:17 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:21 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:21 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:21 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:21 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:21 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:21 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:21 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:21 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:21 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:21 - Encryption support: ON
+(I) 2024-07-01T21:32:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:22 - Using built-in WebUI.
+(W) 2024-07-01T21:32:22 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:22 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:22 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:22 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:22 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:22 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:22 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:22 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:22 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:22 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:22 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:22 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:22 - Encryption support: ON
+(I) 2024-07-01T21:32:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:23 - Using built-in WebUI.
+(W) 2024-07-01T21:32:23 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:23 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:23 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:25 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:25 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:25 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:25 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:25 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:25 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:25 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:25 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:25 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:25 - Encryption support: ON
+(I) 2024-07-01T21:32:25 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:25 - Using built-in WebUI.
+(W) 2024-07-01T21:32:25 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:25 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:25 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:25 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:26 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:26 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:26 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:26 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:26 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:26 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:26 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:26 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:26 - Encryption support: ON
+(I) 2024-07-01T21:32:26 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:26 - Using built-in WebUI.
+(W) 2024-07-01T21:32:26 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:26 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:26 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:28 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:28 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:28 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:28 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:28 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:28 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:28 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:28 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:28 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:28 - Encryption support: ON
+(I) 2024-07-01T21:32:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:28 - Using built-in WebUI.
+(W) 2024-07-01T21:32:28 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:28 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:28 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:30 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:30 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:30 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:30 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:30 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:30 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:30 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:30 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:30 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:30 - Encryption support: ON
+(I) 2024-07-01T21:32:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:30 - Using built-in WebUI.
+(W) 2024-07-01T21:32:30 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:30 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:30 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:30 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:31 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:31 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:31 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:31 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:31 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:31 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:31 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:31 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:31 - Encryption support: ON
+(I) 2024-07-01T21:32:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:31 - Using built-in WebUI.
+(W) 2024-07-01T21:32:31 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:31 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:31 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:35 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:35 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:35 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:35 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:35 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:35 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:35 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-01T21:32:35 - Local Peer Discovery support: ON
+(I) 2024-07-01T21:32:35 - Peer Exchange (PeX) support: ON
+(I) 2024-07-01T21:32:35 - Anonymous mode: OFF
+(I) 2024-07-01T21:32:35 - Encryption support: ON
+(I) 2024-07-01T21:32:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jul 1 00:34:52 2024.
+(N) 2024-07-01T21:32:35 - Using built-in WebUI.
+(W) 2024-07-01T21:32:35 - Couldn't load WebUI translation for selected locale (C).
+(C) 2024-07-01T21:32:35 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2024-07-01T21:32:35 - qBittorrent termination initiated
+(N) 2024-07-01T21:32:39 - qBittorrent is now ready to exit
+(N) 2024-07-01T21:32:39 - qBittorrent v4.6.5 started
+(N) 2024-07-01T21:32:39 - Using config directory: /config/qBittorrent
+(N) 2024-07-01T21:32:39 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-01T21:32:39 - Peer ID: "-qB4650-"
+(I) 2024-07-01T21:32:39 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-01T21:32:39 - Distributed Hash Table (DHT) support: ON

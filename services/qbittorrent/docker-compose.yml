@@ -1,0 +1,13 @@
+services:
+  qbittorrent:
+    image: linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    network_mode: bridge
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - ./config:/config
+      - ./content/torrents:/data/torrents
+    ports:
+      - 8090:8090
