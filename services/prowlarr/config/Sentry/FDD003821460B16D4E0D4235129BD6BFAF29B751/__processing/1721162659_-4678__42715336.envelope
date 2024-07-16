@@ -1,0 +1,3 @@
+{"sdk":{"name":"sentry.dotnet","version":"4.0.2"}}
+{"type":"session","length":324}
+{"sid":"98d47ed6982640bdb7a104c791999289","did":"122396fa-5bd3-4035-993d-bca8186d38ab","init":false,"started":"2024-07-11T18:35:09.4215967-07:00","timestamp":"2024-07-16T20:44:19.9814204+00:00","seq":1,"duration":414550,"errors":0,"status":"abnormal","attrs":{"release":"Prowlarr@1.20.1.4603-master","environment":"master"}}

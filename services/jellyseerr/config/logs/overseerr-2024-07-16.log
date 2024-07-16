@@ -2815,3 +2815,16 @@
 2024-07-16T20:40:00.188Z [info][Jellyfin Sync]: Recently Added Scan Complete 
 2024-07-16T20:41:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2024-07-16T20:42:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:42:15.840Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2024-07-16T20:43:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:44:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:45:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:45:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2024-07-16T20:45:00.012Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e32c3663-e704-451f-b713-5b3d5e3598fb"}
+2024-07-16T20:45:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2024-07-16T20:45:00.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2024-07-16T20:45:00.026Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2024-07-16T20:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:47:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:48:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2024-07-16T20:49:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 

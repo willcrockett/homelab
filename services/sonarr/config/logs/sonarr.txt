@@ -4893,3 +4893,7 @@
 2024-07-16 13:28:47.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2024-07-16 13:28:47.2|Info|DownloadDecisionMaker|No results found
 2024-07-16 13:28:47.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-07-16 13:43:47.4|Info|RssSyncService|Starting RSS Sync
+2024-07-16 13:43:47.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2024-07-16 13:43:47.4|Info|DownloadDecisionMaker|No results found
+2024-07-16 13:43:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
