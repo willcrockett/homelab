@@ -269,3 +269,84 @@
 (W) 2024-07-01T21:44:41 - Couldn't load WebUI translation for selected locale (C).
 (N) 2024-07-01T21:44:41 - WebUI: Now listening on IP: *, port: 8080
 (I) 2024-07-01T21:44:46 - Detected external IP. IP: "198.72.139.13"
+(N) 2024-07-08T21:38:49 - qBittorrent termination initiated
+(N) 2024-07-08T21:38:49 - qBittorrent is now ready to exit
+(N) 2024-07-11T13:34:26 - qBittorrent v4.6.5 started
+(N) 2024-07-11T13:34:26 - Using config directory: /config/qBittorrent
+(N) 2024-07-11T13:34:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-11T13:34:27 - Peer ID: "-qB4650-"
+(I) 2024-07-11T13:34:27 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-11T13:34:27 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-11T13:34:27 - Local Peer Discovery support: ON
+(I) 2024-07-11T13:34:27 - Peer Exchange (PeX) support: ON
+(I) 2024-07-11T13:34:27 - Anonymous mode: OFF
+(I) 2024-07-11T13:34:27 - Encryption support: ON
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "10.100.0.2". Port: "TCP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "10.100.0.2". Port: "UTP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "fe80::dc65:a775:4f35:1d67%tun0". Port: "TCP/6881"
+(I) 2024-07-11T13:34:27 - Successfully listening on IP. IP: "fe80::dc65:a775:4f35:1d67%tun0". Port: "UTP/6881"
+(I) 2024-07-11T13:34:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 30 17:34:52 2024.
+(N) 2024-07-11T13:34:27 - Using built-in WebUI.
+(W) 2024-07-11T13:34:27 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-07-11T13:34:27 - WebUI: Now listening on IP: *, port: 8082
+(I) 2024-07-11T13:34:29 - Detected external IP. IP: "185.207.249.174"
+(N) 2024-07-11T13:35:23 - qBittorrent termination initiated
+(N) 2024-07-11T13:35:23 - qBittorrent is now ready to exit
+(N) 2024-07-11T13:36:36 - qBittorrent v4.6.5 started
+(N) 2024-07-11T13:36:36 - Using config directory: /config/qBittorrent
+(N) 2024-07-11T13:36:36 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-11T13:36:36 - Peer ID: "-qB4650-"
+(I) 2024-07-11T13:36:36 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-11T13:36:36 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-11T13:36:36 - Local Peer Discovery support: ON
+(I) 2024-07-11T13:36:36 - Peer Exchange (PeX) support: ON
+(I) 2024-07-11T13:36:36 - Anonymous mode: OFF
+(I) 2024-07-11T13:36:36 - Encryption support: ON
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "10.100.0.2". Port: "TCP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "10.100.0.2". Port: "UTP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "172.22.0.2". Port: "TCP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "172.22.0.2". Port: "UTP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "fe80::dc65:a775:4f35:1d67%tun0". Port: "TCP/6881"
+(I) 2024-07-11T13:36:36 - Successfully listening on IP. IP: "fe80::dc65:a775:4f35:1d67%tun0". Port: "UTP/6881"
+(I) 2024-07-11T13:36:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 30 17:34:52 2024.
+(N) 2024-07-11T13:36:36 - Using built-in WebUI.
+(W) 2024-07-11T13:36:36 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-07-11T13:36:36 - WebUI: Now listening on IP: *, port: 8082
+(I) 2024-07-11T13:36:36 - Detected external IP. IP: "185.207.249.174"
+(N) 2024-07-11T18:48:59 - qBittorrent termination initiated
+(N) 2024-07-11T18:48:59 - qBittorrent is now ready to exit
+(N) 2024-07-11T18:49:02 - qBittorrent v4.6.5 started
+(N) 2024-07-11T18:49:02 - Using config directory: /config/qBittorrent
+(N) 2024-07-11T18:49:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-07-11T18:49:02 - Peer ID: "-qB4650-"
+(I) 2024-07-11T18:49:02 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-07-11T18:49:02 - Distributed Hash Table (DHT) support: ON
+(I) 2024-07-11T18:49:02 - Local Peer Discovery support: ON
+(I) 2024-07-11T18:49:02 - Peer Exchange (PeX) support: ON
+(I) 2024-07-11T18:49:02 - Anonymous mode: OFF
+(I) 2024-07-11T18:49:02 - Encryption support: ON
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "10.100.0.2". Port: "TCP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "10.100.0.2". Port: "UTP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "172.28.0.6". Port: "TCP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "172.28.0.6". Port: "UTP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "fe80::6f73:75a6:f5be:2b5%tun0". Port: "TCP/6881"
+(I) 2024-07-11T18:49:02 - Successfully listening on IP. IP: "fe80::6f73:75a6:f5be:2b5%tun0". Port: "UTP/6881"
+(I) 2024-07-11T18:49:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 30 17:34:52 2024.
+(N) 2024-07-11T18:49:03 - Using built-in WebUI.
+(W) 2024-07-11T18:49:03 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-07-11T18:49:03 - WebUI: Now listening on IP: *, port: 8082
+(I) 2024-07-11T18:49:05 - Detected external IP. IP: "181.214.226.133"

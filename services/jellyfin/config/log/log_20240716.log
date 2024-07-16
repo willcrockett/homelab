@@ -1,0 +1,12 @@
+[2024-07-16 02:00:00.006 +00:00] [INF] [137] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2024-07-16 02:00:01.003 +00:00] [INF] [137] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2024-07-17 02:00:00.000 +00:00, which is 23:59:58.9960560 from now.
+[2024-07-16 02:59:59.999 +00:00] [INF] [156] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2024-07-16 03:00:01.003 +00:00] [INF] [156] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2024-07-17 03:00:00.000 +00:00, which is 23:59:58.9966503 from now.
+[2024-07-16 10:22:18.378 +00:00] [INF] [68] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-07-16 10:22:18.382 +00:00] [WRN] [68] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media/media/tv" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.382 +00:00] [WRN] [68] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media/media/movies" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.382 +00:00] [WRN] [68] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.391 +00:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media/media/tv" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.391 +00:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/media/media/movies" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.391 +00:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-07-16 10:22:18.394 +00:00] [INF] [3] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds

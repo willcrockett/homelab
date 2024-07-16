@@ -1,0 +1,31 @@
+services:
+  gluetun:
+    image: qmcgaw/gluetun
+    container_name: gluetun
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - PUID=998
+      - PGID=100
+      - TZ=America/Los_Angeles
+      - VPN_SERVICE_PROVIDER=nordvpn
+      - VPN_TYPE=openvpn
+      - OPENVPN_USER=${VPN_USERNAME}
+      - OPENVPN_PASSWORD=${VPN_PASSWORD}
+      - SERVER_COUNTRIES=United States
+      - FIREWALL_VPN_INPUT_PORTS=57786
+    volumes:
+      - ~/srv/services/gluetun/config:/gluetun
+    ports:
+      - 8081-8085:8081-8085
+      - 6881-6885:6881-6885/udp
+      - 6881-6885:6881-6881
+      - 8388:8388/udp # Shadowsocks
+      - 8388:8388/udp # Shadowsocks
+    networks:
+      - media
+    restart: unless-stopped
+networks:
+  media:
+    external: true
+

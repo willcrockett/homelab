@@ -2,17 +2,18 @@ services:
   sonarr:
     image: linuxserver/sonarr
     container_name: sonarr
-    network_mode: bridge
     environment:
       - PUID=1000
       - PGID=1000
       - TZ=America/Los_Angeles
     volumes:
-      - /media2:/data
       - ./config:/config
-      - ~/srv/services/qbittorrent/content/torrents:/downloads
+      - ~/srv/share_media:/data
     ports:
       - 8989:8989
     restart: unless-stopped
+    networks:
+      - media
 networks:
-  media-network:
+  media:
+    external: true

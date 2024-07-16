@@ -1,0 +1,21 @@
+---
+# https://hub.docker.com/r/fallenbagel/jellyseerr
+version: '3'
+services:
+  jellyseerr:
+    image: fallenbagel/jellyseerr:latest
+    container_name: jellyseerr
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=Europe/Berlin
+    ports:
+      - 5055:5055
+    volumes:
+      - ~/srv/services/jellyseerr/config:/app/config
+    networks:
+      - media
+    restart: unless-stopped
+
+networks:
+  media:
+    external: true

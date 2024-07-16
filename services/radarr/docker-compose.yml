@@ -8,10 +8,13 @@ services:
       - TZ=America/Los_Angeles
     volumes:
       - ./config:/config
-      - /media:/movies
-      - ~/srv/services/qbittorrent/content/torrents:/downloads
-    network_mode: bridge
+      - ~/srv/share_media:/data
     ports:
       - 7878:7878
     restart: unless-stopped
+    networks:
+      - media
+networks:
+  media:
+    external: true
 

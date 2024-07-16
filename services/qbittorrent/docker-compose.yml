@@ -2,12 +2,13 @@ services:
   qbittorrent:
     image: linuxserver/qbittorrent:latest
     container_name: qbittorrent
-    network_mode: bridge
+    network_mode: "container:gluetun"
     environment:
       - PUID=1000
       - PGID=1000
+      - TZ=America/Los_Angeles
+      - WEBUI_PORT=8082
     volumes:
       - ./config:/config
-      - ./content/torrents:/data/torrents
-    ports:
-      - 8090:8090
+      - ~/srv/share_media/:/data
+    restart: unless-stopped

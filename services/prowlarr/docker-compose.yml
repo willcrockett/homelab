@@ -1,6 +1,6 @@
 services:
   prowlarr:
-    image: linuxserver/prowlarr
+    image: lscr.io/linuxserver/prowlarr:latest
     container_name: prowlarr
     environment:
       - PUID=1000
@@ -8,8 +8,11 @@ services:
       - TZ=America/Los_Angeles
     volumes:
       - ./config:/config
-      - ~/srv/services/qbittorrent/content/torrents:/downloads
-    network_mode: bridge
     ports:
-      - 9117:9117
+      - 9696:9696
     restart: unless-stopped
+    networks:
+      - media
+networks:
+  media:
+    external: true
